@@ -1,4 +1,4 @@
-# A law of large numbers for neural networks
+# A law of large numbers
 
 Neural networks are enormously valuable tools in tasks related to classification and automation. As
 a result or their practical strength, a significant interest in the development of our understanding of
