@@ -11,6 +11,8 @@ for the empirical distribution of the parameters of a single-layer neural networ
 The final report for this project can be found: 
 https://drive.google.com/file/d/1BHAUK4oiP9n_4ObmjTaZ9ChM2BEuz6we/view?usp=sharing
 
+The MNIST_Experiments file can be used to obtain the results pertaining to a neural network trained on MNIST data, while the Simulated_Dataset file pertains to a neural network trained on simulated data.
+
 References:
 
 [1] J. Sirignano and K. Spiliopoulos. Mean field analysis of neural networks: A law of large numbers,
