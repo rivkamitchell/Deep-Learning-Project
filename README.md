@@ -8,6 +8,8 @@ and prove that under suitable scaling the empirical distribution of its paramete
 solution of a nonlinear partial differential equation. Their result can be seen as a law of large numbers
 for the empirical distribution of the parameters of a single-layer neural network. In this project, we aim to provide empirical evidence to support their theory.
 
+The final report for this project can be found: 
+https://drive.google.com/file/d/1BHAUK4oiP9n_4ObmjTaZ9ChM2BEuz6we/view?usp=sharing
 
 References:
 [1] J. Sirignano and K. Spiliopoulos. Mean field analysis of neural networks: A law of large numbers,
