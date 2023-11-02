@@ -12,5 +12,6 @@ The final report for this project can be found:
 https://drive.google.com/file/d/1BHAUK4oiP9n_4ObmjTaZ9ChM2BEuz6we/view?usp=sharing
 
 References:
+
 [1] J. Sirignano and K. Spiliopoulos. Mean field analysis of neural networks: A law of large numbers,
 05 2018. URL https://arxiv.org/pdf/1805.01053.pdf.
